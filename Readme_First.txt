@@ -30,7 +30,9 @@ Using the SportStat Olympic dataset, this analysis answers key questions:
 
 ## Why This Matters
 
-This project is connected to a real-world internship in sports advertising, providing insights into athlete demographics, performance, and potential sponsorship value. It offers useful patterns for marketing teams, brand strategists, and anyone interested in the evolution of Olympic competition.
+This project is connected to a real-world internship in sports advertising, 
+providing insights into athlete demographics, performance, and potential sponsorship value. 
+It offers useful patterns for marketing teams, brand strategists, and anyone interested in the evolution of Olympic competition.
 
 ## Lessons Learned
 
